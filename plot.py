@@ -66,4 +66,4 @@ layout = {
   }
 }
 fig = Figure(data=data, layout=layout)
-plot_url = py.plot(fig, filename="node-example")
+plot_url = py.plot(fig, filename="Plotly Hackathon")
